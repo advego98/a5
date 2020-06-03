@@ -3,7 +3,7 @@
     margin: 0px;
     padding: 0px;
 }
-/*Default*/
+
 .log_in {
     background-color: lightgrey;
     display: flex;
@@ -24,4 +24,4 @@ td{
 tr{
     border: black 1px solid;
 }
-/*Fin Default*/
+
